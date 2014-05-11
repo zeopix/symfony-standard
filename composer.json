@@ -1,8 +1,8 @@
 {
-    "name": "symfony/framework-standard-edition",
+    "name": "varavan/symfony-standard-edition",
     "license": "MIT",
     "type": "project",
-    "description": "The \"Symfony Standard Edition\" distribution",
+    "description": "The \"Symfony Varavan Edition\" distribution",
     "autoload": {
         "psr-0": { "": "src/" }
     },
@@ -17,7 +17,7 @@
         "symfony/monolog-bundle": "~2.4",
         "sensio/distribution-bundle": "~2.3",
         "sensio/framework-extra-bundle": "~3.0",
-        "sensio/generator-bundle": "~2.3",
+        "varavan/generator-bundle": "~2.3",
         "incenteev/composer-parameter-handler": "~2.0"
     },
     "scripts": {
